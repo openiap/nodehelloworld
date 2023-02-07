@@ -3,4 +3,4 @@ function forever_loop() {
 }
 
 console.log("Hellow world")
-forever_loop()
+// forever_loop()
